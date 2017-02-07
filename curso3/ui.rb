@@ -21,3 +21,8 @@ def draw map
     clearScreen
     puts map
 end
+
+def gameOver
+    puts "\n\n\n\n\n\n"
+    puts "Game Over"
+end
